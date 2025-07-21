@@ -1,7 +1,5 @@
 // Source - https://docs.oracle.com/javase/tutorial/essential/exceptions/handling.html
 
-// Note: This class will not compile yet.
-
 import java.io.FileWriter;
 import java.io.IOException;
 import java.io.PrintWriter;
