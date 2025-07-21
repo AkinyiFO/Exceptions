@@ -1,7 +1,5 @@
 // Source - https://docs.oracle.com/javase/tutorial/essential/exceptions/handling.html
 
-// Note: This class will not compile yet.
-
 import java.io.*;
 import java.sql.Connection;
 import java.sql.ResultSet;
